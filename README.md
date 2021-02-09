@@ -1,6 +1,6 @@
 ## Oi, seja-bem vindo ao meu Gift! Sou o João 👋
 
-
+![baneer](https://www.agenciabrasilia.df.gov.br/wp-conteudo/themes/agencia-brasilia/img/carregando.gif)
 Atualmente, estou cursando em Gradução em *Sistemas de Informação*🖥🤓
 
 Estudando Atualmente:
