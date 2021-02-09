@@ -2,6 +2,7 @@
 ![foto](https://media1.tenor.com/images/d187f6cc75de75a9a2dd611a43e1391e/tenor.gif?itemid=15523929)
 
 Atualmente, estou cursando em Gradução em *Sistemas de Informação*🖥🤓
+
 Estudando Atualmente:
 * Github 🗃
 * Markdown 📑
