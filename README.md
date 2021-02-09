@@ -1,4 +1,5 @@
 ## Oi, seja-bem vindo ao meu Gift! 👋
+![foto](https://media1.tenor.com/images/d187f6cc75de75a9a2dd611a43e1391e/tenor.gif?itemid=15523929)
 
 Atualmente, estou cursando em Gradução em *Sistemas de Informação*🖥🤓
 
@@ -10,4 +11,4 @@ Para mais informação
 
 📩Ou ainda você pode enviar um e-mail para: joaovitor0508@gmail.com 📩
 
-![banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Frechcamila%2Fgifs-e-videos%2F&psig=AOvVaw2l271KdU4eF5CaFMULmBrO&ust=1612915989754000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjl67DC2-4CFQAAAAAdAAAAABAI)
+
