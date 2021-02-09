@@ -1,16 +1,13 @@
-### Hi there 👋
+## Oi, seja-bem vindo ao meu Gift! 👋
 
-<!--
-**jvsribeiro/jvsribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou cursando em Gradução em *Sistemas de Informação*🖥🤓
 
-Here are some ideas to get you started:
+Sempre bem animado para estudar📚🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Para mais informação
+
+* 📜Linkedln📜
+
+📩Ou ainda você pode enviar um e-mail para: joaovitor0508@gmail.com 📩
+
+![banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Frechcamila%2Fgifs-e-videos%2F&psig=AOvVaw2l271KdU4eF5CaFMULmBrO&ust=1612915989754000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjl67DC2-4CFQAAAAAdAAAAABAI)
