@@ -1,5 +1,5 @@
 ## Oi, seja-bem vindo ao meu Gift! Sou o João 👋
-![foto](file:///C:/Users/Usuario/Downloads/GIFT.png)
+![foto](https://drive.google.com/drive/u/0/my-drive)
 
 Atualmente, estou cursando em Gradução em *Sistemas de Informação*🖥🤓
 
