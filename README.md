@@ -1,6 +1,7 @@
 ## Oi, seja-bem vindo ao meu Gift! Sou o João 👋
 
-![baneer](https://www.agenciabrasilia.df.gov.br/wp-conteudo/themes/agencia-brasilia/img/carregando.gif)
+![baneer](https://www.gamerview.com.br/wp-content/uploads/2019/12/mario-gif.gif)
+
 Atualmente, estou cursando em Gradução em *Sistemas de Informação*🖥🤓
 
 Estudando Atualmente:
