@@ -1,9 +1,7 @@
 ## Oi, seja-bem vindo ao meu Gift! Sou o João 👋
 
 
-![banner](https://github.com/jvsribeiro/jvsribeiro/blob/main/GIFT%20(2).png)
-
-![gif](https://www.gamerview.com.br/wp-content/uploads/2019/12/mario-gif.gif)
+![banner](https://github.com/jvsribeiro/jvsribeiro/blob/main/GIFT%20(2).png)![gif](https://www.gamerview.com.br/wp-content/uploads/2019/12/mario-gif.gif)
 
 Atualmente, estou cursando em Gradução em *Sistemas de Informação*🖥🤓
 
