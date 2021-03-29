@@ -6,13 +6,9 @@
 Atualmente, estou cursando em Gradução em *Sistemas de Informação*🖥🤓
 
 Estudando Atualmente:
-* Github 🗃
-* Markdown 📑
-* Linkedin 🔍
+*Python
 
-Atualmente, estou utilizando 
 
-Linux ![linux](https://github.com/jvsribeiro/jvsribeiro/blob/main/linux-logo.png)
 
 
 📩Para entrar em contato envie um e-mail para: joaovitor0508@gmail.com 📩
