@@ -6,7 +6,7 @@
 Atualmente, estou cursando em Gradução em *Sistemas de Informação*🖥🤓
 
 Estudando Atualmente:
-*Python
+*JAVASCRIPT
 
 
 
