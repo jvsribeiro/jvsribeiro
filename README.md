@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Joao Vitor Ribeiro</h1>
 <p align="center">
   <b>Desenvolvedor Full Stack • Apaixonado por tecnologia, inovação e automação</b><br>
-  💼 Analista de Desenvolvimento @ Zixbe • 🎓 Sistemas de Informação - UNIFAFIBE
+  💼 Analista de Desenvolvimento @ Zixbe • 🎓 Graduado Sistemas de Informação - UNIFAFIBE
 </p>
 
 ---
