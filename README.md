@@ -1,70 +1,97 @@
-<h1 align="center">👨‍💻 Joao Vitor Ribeiro</h1>
+<!-- Banner animado -->
 <p align="center">
-  <b>Desenvolvedor Full Stack • Apaixonado por tecnologia, inovação e automação</b><br>
-  💼 Analista de Desenvolvimento @ Zixbe • 🎓 Graduado Sistemas de Informação - UNIFAFIBE
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=👨‍💻+João+Vitor+Ribeiro;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia,+inovação+e+automação" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Sobre mim
-
-Sou um desenvolvedor full stack apaixonado por resolver problemas com código. Com experiência sólida em **Python**, **JavaScript** e **Java**, trabalho criando soluções eficientes e escaláveis, tanto no **frontend** quanto no **backend**.
-
-Tenho forte base em **arquitetura de software**, **bancos de dados (PostgreSQL e SQL Server)**, **integração de sistemas**, **versionamento com Git** e estou sempre em busca de novos desafios e aprendizado contínuo.
-
-> 🌱 Atualmente explorando automações com Python e tecnologias cloud  
-> 🎯 Foco em APIs, microserviços e integração backend/frontend  
-> 🤝 Acredito em colaboração, boas práticas e código limpo  
+<h3 align="center">💻 Analista de Desenvolvimento @ Zixbe | 🎓 Sistemas de Informação - UNIFAFIBE</h3>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🚀 Sobre mim
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+Sou um desenvolvedor **Full Stack** apaixonado por transformar ideias em soluções digitais.  
+Tenho experiência sólida em **Python**, **JavaScript** e **Java**, atuando com **frontend**, **backend** e **integração de sistemas**.
 
----
-
-### 📚 Certificações
-
-- Google Cloud Computing Foundations (Cloud, Networking, Infrastructure)
-- Redes de Computadores
-- JavaScript: tipos, variáveis e funções
+> 🌱 Atualmente explorando automações com **Python** e tecnologias **Cloud**  
+> 🎯 Foco em **APIs**, **microserviços** e **integração backend/frontend**  
+> 🤝 Acredito em **colaboração**, **boas práticas** e **código limpo**
 
 ---
 
-### 📈 Experiência
+## 🛠️ Tecnologias e Ferramentas
 
-- 🟦 **Zixbe**  
-  `Analista de Desenvolvimento Júnior II` (Mar/2025 - atual)  
-  `Analista de Desenvolvimento Júnior I` (Fev/2024 - Mar/2025)  
-
-- 🟢 **Sicoob Credicitrus** — Suporte ao usuário  
-- 🟠 **Linx** — Analista de Suporte  
-- ⚖️ **Reis Advogados** — Infraestrutura e Suporte  
-- 🏛️ **Prefeitura de Bebedouro** — Suporte de TI  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,tailwind,php,laravel,postgresql,mysql,git,vscode,docker,linux&perline=8" />
+</p>
 
 ---
 
-### 📬 Contato
+## 📚 Certificações
 
-- 📧 [joaovitorr0508@gmail.com](mailto:joaovitorr0508@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/joao-vitor-ribeiro-2a40511b7)  
-- 💻 [Meu GitHub](https://github.com/jvsribeiro)  
+- ☁️ **Google Cloud Computing Foundations** (Cloud, Networking, Infrastructure)  
+- 🌐 **Redes de Computadores**  
+- ⚙️ **JavaScript: tipos, variáveis e funções**  
 
 ---
 
-### ⚡ Curiosidades
+## 💼 Experiência
+
+| Empresa | Cargo | Período |
+|----------|--------|----------|
+| 🟦 **Zixbe** | Analista de Desenvolvimento Júnior II | Mar/2025 - atual |
+|  | Analista de Desenvolvimento Júnior I | Fev/2024 - Mar/2025 |
+| 🟢 **Sicoob Credicitrus** | Suporte ao Usuário |  |
+| 🟠 **Linx** | Analista de Suporte |  |
+| ⚖️ **Reis Advogados** | Infraestrutura e Suporte |  |
+| 🏛️ **Prefeitura de Bebedouro** | Suporte de TI |  |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvsribeiro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jvsribeiro&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jvsribeiro&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Commit Snake
+
+<p align="center">
+  <img src="https://github.com/jvsribeiro/jvsribeiro/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📬 Contato
+
+<p align="center">
+  <a href="mailto:joaovitorr0508@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/joao-vitor-ribeiro-2a40511b7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/jvsribeiro"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ Curiosidades
 
 - 🧠 Curioso por tudo que envolve **dados, automação e produtividade**  
 - 💡 Gosto de projetos que envolvem **melhoria de processos** com tecnologia  
-- ☕ Apaixonado por café e boas ideias!
+- ☕ Apaixonado por **café e boas ideias**
 
 ---
 
-<sup>“Sempre em busca de desafios que me tirem da zona de conforto.”</sup>
+<p align="center">
+  <i>“Sempre em busca de desafios que me tirem da zona de conforto.”</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jvsribeiro&label=👀+Visualizações+de+perfil&color=blueviolet&style=flat-square" />
+</p>
