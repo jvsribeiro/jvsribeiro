@@ -1,7 +1,3 @@
-<!-- Banner animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=👨‍💻+João+Vitor+Ribeiro;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia,+inovação+e+automação" alt="Typing SVG" />
-</p>
 
 ---
 
