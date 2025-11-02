@@ -58,13 +58,6 @@ Tenho experiência sólida em **Python**, **JavaScript** e **Java**, atuando com
 
 ---
 
-## 🐍 Commit Snake
-
-<p align="center">
-  <img src="https://github.com/jvsribeiro/jvsribeiro/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 📬 Contato
 
