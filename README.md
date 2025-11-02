@@ -8,7 +8,7 @@
 ## 🚀 Sobre mim
 
 Sou um desenvolvedor **Full Stack** apaixonado por transformar ideias em soluções digitais.  
-Tenho experiência sólida em **Python**, **JavaScript** e **Java**, atuando com **frontend**, **backend** e **integração de sistemas**.
+Tenho experiência sólida em **Python**, **JavaScript** e , atuando com **frontend**, **backend** e **integração de sistemas**.
 
 > 🌱 Atualmente explorando automações com **Python** e tecnologias **Cloud**  
 > 🎯 Foco em **APIs**, **microserviços** e **integração backend/frontend**  
